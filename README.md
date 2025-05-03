@@ -66,6 +66,3 @@ produk.
 Proyek ini dibuat untuk keperluan pembelajaran dan Ujian Kompetensi Kejuruan. Hak cipta oleh RPL 2025.
 
 ---
-
-**Catatan:**  
-Semua data bersifat simulasi dan tidak terhubung dengan sistem database.
